@@ -1,0 +1,11 @@
+D:\Modular\Applications\SVN\GitHub\ASPNET\bin\Debug\netcoreapp2.0\ASPNET.deps.json
+D:\Modular\Applications\SVN\GitHub\ASPNET\bin\Debug\netcoreapp2.0\ASPNET.runtimeconfig.json
+D:\Modular\Applications\SVN\GitHub\ASPNET\bin\Debug\netcoreapp2.0\ASPNET.runtimeconfig.dev.json
+D:\Modular\Applications\SVN\GitHub\ASPNET\bin\Debug\netcoreapp2.0\ASPNET.dll
+D:\Modular\Applications\SVN\GitHub\ASPNET\bin\Debug\netcoreapp2.0\ASPNET.pdb
+D:\Modular\Applications\SVN\GitHub\ASPNET\obj\Debug\netcoreapp2.0\ASPNET.csprojAssemblyReference.cache
+D:\Modular\Applications\SVN\GitHub\ASPNET\obj\Debug\netcoreapp2.0\ASPNET.csproj.CoreCompileInputs.cache
+D:\Modular\Applications\SVN\GitHub\ASPNET\obj\Debug\netcoreapp2.0\ASPNET.AssemblyInfoInputs.cache
+D:\Modular\Applications\SVN\GitHub\ASPNET\obj\Debug\netcoreapp2.0\ASPNET.AssemblyInfo.cs
+D:\Modular\Applications\SVN\GitHub\ASPNET\obj\Debug\netcoreapp2.0\ASPNET.dll
+D:\Modular\Applications\SVN\GitHub\ASPNET\obj\Debug\netcoreapp2.0\ASPNET.pdb
